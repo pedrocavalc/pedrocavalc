@@ -5,10 +5,15 @@
 🔍 About Me
 
 🎓 Currently pursuing a degree in Computer Engineering from the Instituto Federal De Ciência e Tecnologia do Ceará.
+
 💼 Working at LAPISCO as a Machine Learning Engineer.
+
 📊 Experienced in developing and implementing machine learning models for intelligent systems, recommendation engines, classification, regression, and computer vision.
+
 💡 Passionate about tackling complex challenges and optimizing solutions using data insights.
+
 🌐 Fluent in English.
+
 🛠 Tech Stack
 
 Programming Languages: Python, C++, Java.

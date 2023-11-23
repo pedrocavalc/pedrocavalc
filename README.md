@@ -65,6 +65,8 @@ Other Tools:
 
 [Image Classification Baseline](https://github.com/pedrocavalc/image-classification-baseline) - A system for training image classification models in PyTorch using MLOps techniques, designed for easy adaptability.
 
+[Apartment Price System](https://github.com/pedrocavalc/Apartament-Price-System) - Machine learning system using real-time data to estimate apartment prices using MLOPS techniques.
+
 🔗 Contact & Connect
 
 📧 Email: sousa.pedrocavalcante@gmail.com
